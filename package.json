@@ -1,0 +1,11 @@
+{
+  "name": "s3workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.145.0",
+    "@aws-sdk/lib-storage": "^3.145.0",
+    "dotenv": "^16.0.1"
+  }
+}
